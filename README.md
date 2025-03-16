@@ -1,4 +1,4 @@
-Pls use [https://github.com/ghubliming/autorename_file_name_with_path_Obsidian_Templater](autorename_file_name_with_path_Obsidian_Templater) with Templater
+Pls use [autorename_file_name_with_path_Obsidian_Templater](https://github.com/ghubliming/autorename_file_name_with_path_Obsidian_Templater) with Templater
 
 ---
 
