@@ -1,3 +1,11 @@
+New Goal:
+Paste current path from right click menu or keyboard shortcut
+Auto add path to new filename, through the way of [[]] method
+
+
+
+
+Old readme:
 # obsidian-show-file-path
 
 This is a plugin for [Obsidian](https://obsidian.md/) that shows the full file path of the currently open file in the status bar.
