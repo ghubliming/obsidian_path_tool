@@ -1,3 +1,7 @@
+Pls use [autorename_file_name_with_path_Obsidian_Templater](https://github.com/ghubliming/autorename_file_name_with_path_Obsidian_Templater) with Templater
+
+---
+
 New Goal:
 Paste current path from right click menu or keyboard shortcut
 Auto add path to new filename, through the way of [[]] method
